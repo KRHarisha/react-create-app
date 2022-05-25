@@ -78,6 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# /_cOLOR THE BULLETS_/
+/_COLOR THE BULLETS_/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/::marker
